@@ -1,1 +1,1 @@
-web: npm run build && npm start
+web: docusaurus build && node server.js
