@@ -3,10 +3,6 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000;
 
-if (location.protocol !== "https:") {
-  location.protocol = "https:";
-}
-
 app.use(express.json());
 
 // Your static site folder name
@@ -19,3 +15,7 @@ app.use('/', function(req,res){
 app.listen(port, ()=>{
     console.log("server is running on "+port)
 })
+
+if (window.location.protocol !== 'https:') {
+  window.location = 'https://' + window.location.hostname + window.location.pathname + window.location.hash;
+}
