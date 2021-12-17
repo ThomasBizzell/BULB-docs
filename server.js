@@ -3,6 +3,10 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000;
 
+if (location.protocol !== "https:") {
+  location.protocol = "https:";
+}
+
 app.use(express.json());
 
 // Your static site folder name
