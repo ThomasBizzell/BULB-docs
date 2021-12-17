@@ -8,7 +8,6 @@ app.use(express.json());
 // Your static site folder name
 app.use(express.static("build"));
 
-
 app.use('/', function(req,res){
     res.sendFile(path.join(__dirname+'/build/index.html'));
   });
