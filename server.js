@@ -4,7 +4,7 @@ const { default: sslRedirect } = require('heroku-ssl-redirect');
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(sslRedirect);
+app.use(sslRedirect());
 app.use(express.json());
 
 // Your static site folder name
