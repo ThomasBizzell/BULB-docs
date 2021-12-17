@@ -4,18 +4,7 @@ const enforce = require('express-sslify');
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(function (req, res, next) {
-  if (req.secure) 
-      return next();
-
-  var target = url.format({
-      protocol: 'https:',
-      host: req.hostname,
-      pathname: req.url
-  });
-
-  res.redirect(301, target);
-});
+app.use(enforce.HTTPS())
 
 app.use(express.json());
 
