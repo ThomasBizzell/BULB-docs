@@ -1,11 +1,11 @@
+import sslRedirect from 'heroku-ssl-redirect';
+
 const express = require('express'); 
 const path = require('path');
-const enforce = require('express-sslify');
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(enforce.HTTPS())
-
+app.use(sslRedirect());
 app.use(express.json());
 
 // Your static site folder name
