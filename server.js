@@ -9,9 +9,9 @@ app.use(sslRedirect());
 app.use(express.json());
 
 // Your static site folder name
-app.use(express.static(path.join(__dirname + '/build')));
+app.use(express.static('build'));
 
-app.get('/', function(req,res){
+app.use('/', function(req,res){
     res.sendFile(path.join(__dirname + '/build/index.html'));
   });
 
