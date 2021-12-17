@@ -4,8 +4,8 @@ const enforce = require('express-sslify');
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(express.json());
 app.use(enforce.HTTPS());
+app.use(express.json());
 
 // Your static site folder name
 app.use(express.static("build"));
