@@ -4,7 +4,7 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.use(sslRedirect());
+app.use(sslRedirect.sslRedirect());
 app.use(express.json());
 
 // Your static site folder name
