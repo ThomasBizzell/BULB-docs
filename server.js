@@ -12,10 +12,10 @@ app.use('/', function(req,res){
     res.sendFile(path.join(__dirname+'/build/index.html'));
   });
 
+app.get('*',function (req, res) {
+    res.redirect('https://docs.bulbapp.io' + req.url);
+});
+
 app.listen(port, ()=>{
     console.log("server is running on "+port)
 })
-
-if (window.location.protocol !== 'https:') {
-  window.location = 'https://' + window.location.hostname + window.location.pathname + window.location.hash;
-}
