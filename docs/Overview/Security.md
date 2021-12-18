@@ -17,4 +17,4 @@ Bonfida's [token vesting program](https://github.com/Bonfida/token-vesting) is u
 
 ## User Security
 
-Our users' security is a top priority and we take your trust in BULB very seriously. We can assure you that any data shared with us will be stored securely and protected. You can view our privacy policy [here](/privacy). We also encourage users to create specific wallets for rewards, educate our users and help them solve problems related to wallets, the BULB Token and the BULB Platform. 
+Our users' security is a top priority and we take your trust in BULB very seriously. We can assure you that any data shared with us will be stored securely and protected. You can view our privacy policy [here](/privacy-policy). We also encourage users to create specific wallets for rewards, educate our users and help them solve problems related to wallets, the BULB Token and the BULB Platform. 
