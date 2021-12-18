@@ -19,7 +19,7 @@ const sidebars = {
       type: 'category',
       collapsed: false,
       label: 'Overview',
-      items: ['Overview/what', 'Overview/team', 'Overview/security', 'Overview/find-us'],
+      items: ['Overview/what', 'Overview/roadmap', 'Overview/team', 'Overview/security', 'Overview/find-us'],
     },
     {
       type: 'category',
