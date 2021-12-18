@@ -11,7 +11,7 @@ If you have any further questions, require our assistance or have feedback for t
 
 ▶ Website: [https://www.bulbapp.io](https://www.bulbapp.io)
 
-▶ Email: [info@bulbapp.io](info@bulbapp.io)
+▶ Email: [info@bulbapp.io](mailto:info@bulbapp.io)
 
 ▶ Discord: [https://discord.gg/D5gQmvC5Gu](https://discord.gg/D5gQmvC5Gu)
 
