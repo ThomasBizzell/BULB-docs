@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/bulb_logo_simple.png',
   organizationName: 'BULB', // Usually your GitHub org/user name.
   projectName: 'BULB-docs', // Usually your repo name.
-
+  staticDirectories: ['public', 'static'],
   presets: [
     [
       'classic',

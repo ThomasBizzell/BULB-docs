@@ -27,6 +27,25 @@ const sidebars = {
       label: 'Tokenomics',
       items: ['Tokenomics/token', 'Tokenomics/token-faq'],
     },
+    {
+      type: 'category',
+      collapsed: false,
+      label: 'BULB Explained',
+      items: ['BULB Explained/bulbmojis', 'BULB Explained/how-to-earn-bulb-tokens', 'BULB Explained/how-to-spend-bulb-tokens',
+      , 'BULB Explained/user-faq'],
+    },
+    {
+      type: 'category',
+      collapsed: false,
+      label: 'General',
+      items: ['General/wallet', 'General/faq'],
+    },
+    {
+      type: 'category',
+      collapsed: false,
+      label: 'Legal',
+      items: ['Legal/privacy', 'Legal/terms'],
+    },
   ],
   // But you can create a sidebar manually
   /*

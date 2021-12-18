@@ -21,3 +21,8 @@ There will be a maximum supply of 1 Billion BULB tokens. Minting has been disabl
 | Team | 40% | 10% of BULB Tokens are issued to the Team in the beginning and the remaining 30% are linearly vested over a 24 month period with a 6 month cliff. |
 | Operations | 10% | Operations rewards for the Team based on a halving schedule and locked in a SPL program until 2047 |
 
+## BULB Accounts
+Coming soon!
+
+## Total Circulating Supply
+Coming soon!
