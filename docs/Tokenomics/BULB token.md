@@ -22,4 +22,4 @@ There will be a maximum supply of 1 Billion BULB tokens. Minting has been disabl
 | Operations | 10% | Operations rewards for the Team based on a halving schedule and locked in a SPL program until 2047 |
 
 ## Total Circulating Supply
-Coming soon!
+![Total circulating supply](/img/Total_Circulating_Supply.png)
