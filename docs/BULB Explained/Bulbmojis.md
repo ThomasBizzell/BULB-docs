@@ -1,6 +1,6 @@
 ---
 id: bulbmojis
-title: What are BULBmojis?
+title: BULBmojis
 sidebar_position: 1
 slug: /bulbmojis
 ---

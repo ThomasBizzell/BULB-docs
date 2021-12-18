@@ -1,6 +1,6 @@
 ---
 id: how-to-earn-bulb-tokens
-title: How to Earn BULB Tokens?
+title: Earn BULB Tokens
 sidebar_position: 1
 slug: /earn-bulb
 ---

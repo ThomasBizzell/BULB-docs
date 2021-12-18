@@ -1,6 +1,6 @@
 ---
 id: how-to-spend-bulb-tokens
-title: How to Spend BULB Tokens?
+title: Spend BULB Tokens
 sidebar_position: 1
 slug: /spend-bulb
 ---
