@@ -53,43 +53,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/bulbappio',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/9NMDkGdetE',
-              },
-              {
-                label: 'Reddit',
-                href: 'https://www.reddit.com/r/bulbappio/',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/company/bulbappio/',
-              },
-              {
-                label: 'Medium',
-                href: 'https://bulbappio.medium.com/',
-              },
-              {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/bulbappio/',
-              }
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} BULB, All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} BULB Labs PTY LTD, All Rights Reserved.`,
       },
       prism: {
         theme: lightCodeTheme,

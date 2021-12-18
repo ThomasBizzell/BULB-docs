@@ -44,19 +44,52 @@ const sidebars = {
       type: 'category',
       collapsed: false,
       label: 'Legal',
-      items: ['Legal/privacy', 'Legal/terms'],
+      items: ['Legal/privacy', 'Legal/terms', 'Legal/disclaimer'],
     },
-  ],
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
     {
       type: 'category',
-      label: 'Tutorial',
-      items: ['hello'],
+      collapsed: false,
+      label: 'Socials',
+      items: [
+        {
+          type: 'link',
+          label: 'Website',
+          href: 'https://www.bulbapp.io',
+        },
+        {
+          type: 'link',
+          label: 'Discord',
+          href: 'https://discord.gg/D5gQmvC5Gu',
+        },
+        {
+          type: 'link',
+          label: 'Reddit',
+          href: 'https://www.reddit.com/r/bulbappio/',
+        },
+        {
+          type: 'link',
+          label: 'Twitter',
+          href: 'https://twitter.com/bulbappio',
+        },
+        {
+          type: 'link',
+          label: 'LinkedIn',
+          href: 'https://www.linkedin.com/company/bulbappio',
+        },
+        {
+          type: 'link',
+          label: 'Instagram',
+          href: 'https://www.instagram.com/bulbappio/',
+        },
+        {
+          type: 'link',
+          label: 'Medium',
+          href: 'https://bulbappio.medium.com/',
+        },
+      ],
     },
+    
   ],
-   */
 };
 
 module.exports = sidebars;

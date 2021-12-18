@@ -1,8 +1,8 @@
 ---
 id: what
-title: What is BULB
+title: What is BULB?
 sidebar_position: 1
-slug: /what
+slug: /about
 ---
 
 ## Who is BULB?

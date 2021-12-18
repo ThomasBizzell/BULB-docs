@@ -1,13 +1,15 @@
 ---
 id: bulbmojis
-title: What are Bulbmojis?
+title: What are BULBmojis?
 sidebar_position: 1
 slug: /bulbmojis
 ---
 
+![BULBmojis](/img/BULBmojis.png)
+
 ## What are BULBmojis?
 
-There are 5 classes of BULBmojis: Writer, Reader, Reactor, Talker and Sharer.
+There are 5 classes of BULBmojis: Writer, Sharer, Talker, Reader and Reactor.
 
 BULBmojis are earned by completing an 'action'. The following classes of BULBmojis are ordered from highest to lowest in value. 
 
