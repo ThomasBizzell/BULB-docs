@@ -11,7 +11,7 @@ BULB Tokens are fungible SPL (Solana Program Library) tokens powered by the Sola
 
 ## Vesting Security
 
-When the total supply is minted, a portion of it is locked up in a token vesting program for scheduled release. The vesting schedule allows BULB to deposit BULB tokens into a vesting contract and can only be unlocked to a specified public key at a certain time period. By locking a large portion of tokens in vesting contracts, the founding team is incentivised to stay committed to BULB and its users.
+When the total supply is minted, a portion of it is locked up in a token vesting program for scheduled release. The vesting schedule allows BULB to deposit BULB Tokens into a vesting contract and can only be unlocked to a specified public key at a certain time period. By locking a large portion of tokens in vesting contracts, the founding team is incentivised to stay committed to BULB and its users.
 
 Bonfida's [token vesting program](https://github.com/Bonfida/token-vesting) is used to execute this and their code has been audited by Kudelski Security.
 

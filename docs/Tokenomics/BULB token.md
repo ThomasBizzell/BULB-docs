@@ -7,11 +7,11 @@ slug: /bulb-token
 
 ## BULB Token
 
-The BULB token is an SPL token issued on the Solana blockchain. It is issued on Solana due to its fast transaction speed, scalability, low cost per transaction and low environmental impact. The main purpose of the BULB token is to reward users of the BULB platform. Participants can receive rewards by writing, reading, reacting, commenting and sharing blogs. With BULB Tokens, users can buy premium content, NFTs and other tradables exclusive to BULB.
+The BULB token is an SPL token issued on the Solana blockchain. It is issued on Solana due to its fast transaction speed, scalability, low cost per transaction and low environmental impact. The main purpose of the BULB Token is to reward users of the BULB platform. Participants can receive rewards by writing, reading, reacting, commenting and sharing blogs. With BULB Tokens, users can buy premium content, NFTs and other tradables exclusive to BULB.
 
 ## Supply
 
-There will be a maximum supply of 1 Billion BULB tokens. Minting has been disabled for BULB and offers no possibility to mint more than 1 Billion tokens. 10% of the total supply, or 100 Million tokens will be issued at the beginning, the remaining being locked up in a token vesting program for scheduled release.
+There will be a maximum supply of 1 Billion BULB Tokens. Minting has been disabled for BULB and offers no possibility to mint more than 1 Billion tokens. 10% of the total supply, or 100 Million tokens will be issued at the beginning, the remaining being locked up in a token vesting program for scheduled release.
 
 ## Token Distribution
 
