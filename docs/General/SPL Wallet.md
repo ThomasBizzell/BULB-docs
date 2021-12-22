@@ -9,7 +9,7 @@ slug: /wallet
 
 Before you get started on BULB, you'll need a Solana Program Library (SPL) wallet for storing your funds on the Solana blockchain and for interacting with the features on BULB. Remember that you'll need SOL in your wallet to complete any transactions on Solana. 
 
-We recommend the [Phantom](https://phantom.app/) wallet. Phantom offers a wallet and browser extension with a streamlined, user friendly interface. Raydium highly suggests Phantom for new users and those that want a simple and straightforward wallet experience.
+We recommend the [Phantom](https://phantom.app/) wallet. Phantom offers a wallet and browser extension with a streamlined, user friendly interface. BULB highly suggests Phantom for new users and those that want a simple and straightforward wallet experience.
 
 ## Setting up Phantom Wallet
 
