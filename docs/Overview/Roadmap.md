@@ -5,6 +5,16 @@ sidebar_position: 1
 slug: /roadmap
 ---
 
+## 2021
+
+### December
+
+#### Token Generation Event
+
+BULB Token released on the Solana network
+
+<hr/>
+
 ## 2022
 
 ### First Half 
@@ -23,6 +33,7 @@ Open to everyone
 
 Major Solana based decentralised exchanges (DEX) include Raydium and Bonfida
 
+<hr/>
 
 ## 2023
 
