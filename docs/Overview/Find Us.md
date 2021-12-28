@@ -13,7 +13,7 @@ If you have any further questions, require our assistance or have feedback for t
 
 ▶ **Email: [info@bulbapp.io](mailto:info@bulbapp.io)**
 
-▶ **Discord: [https://discord.gg/D5gQmvC5Gu](https://discord.gg/D5gQmvC5Gu)**
+▶ **Discord: [https://discord.gg/2AgKsYMjqT](https://discord.gg/2AgKsYMjqT)**
 
 ▶ **Reddit: [https://www.reddit.com/r/bulbappio/](https://www.reddit.com/r/bulbappio/)**
 
