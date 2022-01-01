@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+require('dotenv').config()
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -60,6 +61,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [require.resolve('docusaurus-lunr-search')],
+    plugins: [
+      require.resolve('docusaurus-lunr-search'),
+      [
+        '@docusaurus/plugin-google-analytics',
+        {
+          trackingID: process.env.ANALYTICS_ID,
+          anonymizeIP: true,
+        },
+      ],
+  ],
 };
+
 module.exports = config;
